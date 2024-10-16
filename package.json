@@ -85,7 +85,7 @@
   "files": [
     "LICENSE",
     "History.md",
-    "Readme.md",
+    
     "index.js",
     "lib/"
   ],
